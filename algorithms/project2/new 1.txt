@@ -1,0 +1,2 @@
+find largest x and y values
+increment one at a time and measure point
